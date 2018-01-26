@@ -2,7 +2,7 @@
 
 Øvelser  til 2 semester Javascript intro <br>
 Hvert script bør initialiseres først (se materiale om start funktion) <br>
-Instrukser står også i bunden af hver øvelse.
+# Instrukser står også i bunden af hver øvelse :)
 
 # 1a instrukser 
 
