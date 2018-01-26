@@ -1,10 +1,10 @@
-# JS-exercises
+# JS-øvelser
 
 Øvelser  til 2 semester Javascript intro <br>
 Hvert script bør initialiseres først (se materiale om start funktion) <br>
 # Instrukser står også i bunden af hver øvelse :)
 
-# 1a instrukser 
+# øvelse 1a instrukser 
 
 ### 1 - Instrukser Overblik
 Få knapperne til at kunne skifte farven på bolden med js.
@@ -22,7 +22,7 @@ Når man klikker på bolden skal farven forsvinde igen
                 <br>lav en funktion der fjerner alle farver, som du også kalder før du lægger ny farve på..
                
 
-# 2 instrukser 
+# øvelse 2 instrukser 
 
 ### 1 - Instrukser Overblik
 Knappen skal skifte tekst når man rør ved den med musen - til noget du selv synes er sjovt.
