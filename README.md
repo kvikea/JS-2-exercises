@@ -14,7 +14,8 @@ Få knapperne til at kunne skifte farven på bolden med js.
                 <br>
 
 ### 2 - Instrukser med Hjælp
- start: Hver knap skal selectes, og tildeles sin egen funktion med klik-event. Start med en af knapperne og dens funktion .
+ Initialiser scriptet (se materiale for start funktion).
+                <br> Hver knap skal selectes, og tildeles sin egen funktion med klik-event. Start med en af knapperne og dens funktion.
                 <br> I funktionerne: Du kan bruge classList.add, og classList.remove for at skifte farven på bolden. Husk bolden også skal selectes.
                 <br> Finte: nogle classes skal måske fjernes, når man kun skal bruge 1..
 ### 3 - Videre - Hvis du tør 
