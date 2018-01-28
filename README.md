@@ -44,3 +44,35 @@ Lad også knappen skrive forskellige tekster når man klikker, dobbeltklikker ..
                 <br>Lav en lille knap ved siden af, med sine egne ord ..
                
 
+
+# øvelse 3 instrukser 
+
+### 1 - Instrukser Overblik
+Få Tallene tilbage i de tilsvarende bokse. Klikker man på første boks, skal Tallet 1 komme tilbage. Samtidig skal det gamle tal sendes over til den boks, hvor tal 1 var havnet..
+                <br>"spillet" er umuligt at gennemføre hvis ikke du klikker dig frem i den rigtige læse-retning. Hold øje med hor tallene smutter hen, for at skifte de rigtige ud.
+                <br> boksene har id'erne: "box1", "box2", "box3"... indtil 10.
+                <br> Når en boks bliver klikket får den også en class med blå border: ".ok".
+
+### 2 - Instrukser med Hjælp
+Initialiser scriptet (se materiale om start funktion).
+                Initialiser scriptet (se materiale for start funktion).
+                <br> Hver boks skal selectes, og tildeles sin egen funktion med klik-event.
+                <br> Start med den første boks og dens funktion. Den anden boks (den tallet gemmer sig i - her er det box2, der indeholder tallet: 1) skal også refereres til i den funktion, (da indholdet skal ændre sig til: 10) . Du skal bruge den dom-manipulation der kan ændre tekst.
+                <br> Du kan da ændre tallene ved at skrive dem direkte, eller du kan referere til gemte tal-variabler.
+                <br> Du kan tilføje class'en ".ok" til den boks der er klikket på.
+                <br> Finte: alle boksenes selectorer skal være tilgængelige som variabler til alle funktionerne.
+                <br> Hvis funktionen for box2 først skal kunne aktiveres efter funktion 1, er det smart at kalde den indenfra funktion 1, osv.
+                <br> EventListeneren skal fjernes igen, hvis man kun skal kunne klikke 1 gang..
+                <br> En af de sidste funktioner får flere tal til at gå op - disses boxe skal så have den rigtige borderfarve, og så skal man ikke kunne klikke videre.
+
+
+# øvelse 4 instrukser 
+
+### 1 - Instrukser OverblikDenne laver du stor set uden instrukser.
+                <br> Vi har 1 boks med id "#box". I den lægger du et lille billede af fx. digselv - som sur - og når man klikker skal det skiftes ud med et andet lille billede fx. af dig selv som glad.
+                <br> Du må selv om du lægger det ind som billede eller som baggrundsbillede. Javascripten i klik-funktionen vil dog blive forskellig afhængig af din metode.
+### 2 - Den sværere..
+Klik-funktionen skal "toggle"..
+                <br> Du kan vente til du har code-campet dig frem til if-else og booleans (true-false variabler) -
+                <br> Eller - du kan google dig frem til classList.toggle.
+                <br> GOD ARBEJDSLYST
