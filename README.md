@@ -68,7 +68,8 @@ Initialiser scriptet (se materiale om start funktion).
 
 # øvelse 4 instrukser 
 
-### 1 - Instrukser OverblikDenne laver du stor set uden instrukser.
+### 1 - Instrukser Overblik
+Denne laver du stor set uden instrukser.
                 <br> Vi har 1 boks med id "#box". I den lægger du et lille billede af fx. digselv - som sur - og når man klikker skal det skiftes ud med et andet lille billede fx. af dig selv som glad.
                 <br> Du må selv om du lægger det ind som billede eller som baggrundsbillede. Javascripten i klik-funktionen vil dog blive forskellig afhængig af din metode.
 ### 2 - Den sværere..
