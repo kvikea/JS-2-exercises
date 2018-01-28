@@ -4,7 +4,7 @@
 Hvert script bør initialiseres først (se materiale om start funktion) <br>
 # Instrukser står også i bunden af hver øvelse :)
 
-# øvelse 1a instrukser 
+# øvelse 1 instrukser 
 
 ### 1 - Instrukser Overblik
 Få knapperne til at kunne skifte farven på bolden med js.
