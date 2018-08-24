@@ -1,4 +1,4 @@
-# JS-exercises
+# JS-2-exercises
 
 Øvelser  til 2 semester Javascript intro <br>
 Hvert script bør initialiseres først (se materiale om start funktion) <br>
